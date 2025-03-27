@@ -1,2 +1,3 @@
 # conflict-exercise
-Este es un cambio en la main branch.
+Este es un merge de la main branch y la feature branch.
+
